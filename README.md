@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FourteenPlayer Logo](https://raw.githubusercontent.com/muzdilapills/FourteenPlayer/main/FourteenPlayer/app_icon.png)
+<img src="FourteenPlayer_v2.0_Source/app_icon.png" width="130" alt="FourteenPlayer Logo" />
 
 ### Современный, тактильный и легковесный аудиоплеер для Windows
 
@@ -100,7 +100,7 @@
 ## 📥 Установка и запуск
 
 1. Перейдите в раздел [Релизы на GitHub](https://github.com/muzdilapills/FourteenPlayer/releases).
-2. Скачайте инсталлятор **`FourteenPlayer_Setup.exe`**.
+2. Скачайте инсталлятор **`FourteenPlayer_v2.0_Setup.exe`** (или актуальную версию установщика).
 3. Запустите установщик — он создаст ярлыки на Рабочем столе и в меню Пуск.
 4. Запустите плеер и наслаждайтесь любимой музыкой!
 
