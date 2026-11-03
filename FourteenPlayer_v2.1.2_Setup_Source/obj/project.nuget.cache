@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OCZ0BiuTag=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Анатолий\\Desktop\\FourteenPlayer_v2.1.2_Setup_Source\\FourteenPlayer_Installer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Анатолий\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.16\\microsoft.net.illink.tasks.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
