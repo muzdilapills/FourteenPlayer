@@ -1,8 +1,8 @@
-# 🎵 FourteenPlayer
+﻿# 🎵 FourteenPlayer
 
 <div align="center">
 
-<img src="FourteenPlayer_v2.0_Source/app_icon.png" width="130" alt="FourteenPlayer Logo" />
+<img src="https://github.com/muzdilapills/FourteenPlayer/blob/main/app_icon.png?raw=true" width="130" alt="FourteenPlayer Logo" />
 
 ### Современный, тактильный и легковесный аудиоплеер для Windows
 
