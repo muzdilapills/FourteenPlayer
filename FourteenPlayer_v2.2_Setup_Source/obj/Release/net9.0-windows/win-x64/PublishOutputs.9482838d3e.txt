@@ -1,2 +1,0 @@
-C:\Users\Анатолий\Desktop\PROJECT\FourteenPlayer_v2.2_Setup_Source\publish\FourteenPlayer_v2.2_Setup.pdb
-C:\Users\Анатолий\Desktop\PROJECT\FourteenPlayer_v2.2_Setup_Source\publish\FourteenPlayer_v2.2_Setup.exe
